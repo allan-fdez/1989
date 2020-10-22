@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:0 4
+#EXTINF: 4
 https://hyena.jawcloud.co/hls/baxphvhjmftrdl2gmjuootvjkxievknqva3iwhp72fmcs2pdswdaqsec7c4q/index-v1-a1.m3u8
-
+#EXTINF: 5
+https://cougar.jawcloud.co/hls/baxpp37kmftrdl2gmjuooqhzd5sh5dwirbb7c3ixbuayvcubru63tnp57iga/index-v1-a1.m3u8
