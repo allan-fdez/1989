@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF: 6
-https://turtle.jawcloud.co/hls/baxpk6hfmftrdl2gmjuoowv7j76kpvazgpd4unfda7fupqmj35fjkyu5aoza/index-v1-a1.m3u8
-#EXTINF: 7
-https://turtle.jawcloud.co/hls/baxppyxemftrdl2gmjuootvdjk7qles4nzecfpc575mvwldv3h4kuj3bikgq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Jiban", group-tittle="Jiban",Episodio 6
+https://turtle.jawcloud.co/hls/baxpk6hfmftrdl2gmjuoowv7j76kpvazgpd4unfda7fupqmj35fmzyxpaoza/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="Jiban", group-tittle="Jiban",Episodio 7
+https://turtle.jawcloud.co/hls/baxppyxemftrdl2gmjuootvdjk7qles4nzecfpc575mvwldv3h4k7jytikgq/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="Jiban", group-tittle="Jiban",Episodio 8
+https://turtle.jawcloud.co/hls/baxpv37cmftrdl2gmjuooxp7d6wgym5wpzxudiouiumjmmqm5wt3vfoh3n7a/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="Jiban", group-tittle="Jiban",Episodio 9
+https://turtle.jawcloud.co/hls/baxpgtutmftrdl2gmjk6ognzi4bo7wvmrgarudd3ql7v2vv6rub4kq4x633a/index-v1-a1.m3u8
+
