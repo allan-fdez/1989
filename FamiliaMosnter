@@ -1,33 +1,47 @@
 #EXTM3U
-#EXTINF:0 Episodio 2
-https://cheetah.jawcloud.co/hls/baxpbggvmftrdl2gmju6og72jzbzhf4ygteqmjivlfwzjbiwsn6qmfpw5peq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 1
 
-#EXTINF:0 Episodio 3
-https://cougar.jawcloud.co/hls/baxppgovmftrdl2gmju6ox55d7ftzq2tujmfu323otsjn4ktax7gfq2mgjca/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 2
 
-#EXTINF:0 Episodio 4
-https://hyena.jawcloud.co/hls/baxphvgumftrdl2gmju6osn5l3rohbprkcnl3au6jfpqm3mmuxr2iypluwvq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 3
 
-#EXTINF:0 Episodio 5
-https://hyena.jawcloud.co/hls/baxpuwwumftrdl2gmju6ornmkyji4z7cjpu76p3y577qf4z5mu3vc672t2lq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 4
 
-#EXTINF:0 Episodio 6
-https://turtle.jawcloud.co/hls/baxpgzgumftrdl2gmju6oqnljk3xeereguakvvkaamczmk7cpicwz73xxgmq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 5
 
-#EXTINF:0 Episodio 7
-https://turtle.jawcloud.co/hls/baxpu5wumftrdl2gmju6orvjddz7mwtm6mh52gwgfxy6xyadsxy6iwu7w2ja/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 6
 
-#EXTINF:0 Episodio 8
-https://turtle.jawcloud.co/hls/baxpkdgumftrdl2gmju6ohvainndqmywa7k6p4n2vtm3ferkzfmhrusknzpq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 7
 
-#EXTINF:0 Episodio 9
-https://turtle.jawcloud.co/hls/baxpicoumftrdl2gmju6og5gdjng2db5gualqbqn6ho5isdlfrf5xilgdl7q/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 8
 
-#EXTINF:0 Episodio 10
-https://turtle.jawcloud.co/hls/baxpkbgumftrdl2gmju6otndl4rf6ucnyws3l72sj6qwz67hh45pvx6silzq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 9
 
-#EXTINF:0 Episodio 11
-https://turtle.jawcloud.co/hls/baxpav7pmftrdl2gmjuooxnfj3xdgcy7f2tkip6efhtyp4ezzrb55n2zutaq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 10
 
-#EXTINF:0 Episodio 15
-https://www4.cdncv.net/hls/mfqj72ftshow6epqw7we37sk7pgbltfzvqqja4ez4yh5jnobsajn2yohsucq/index-v1-a1.m3u8
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 11
+https://turtle.jawcloud.co/hls/baxpav7pmftrdl2gmjuooxnfj3xdgcy7f2tkip6efhtyp4ezzq56265mu3aq/index-v1-a1.m3u8
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 12
+
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 13
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 14
+https://turtle.jawcloud.co/hls/baxpbn4emftrdl2gmjloosffk32fl54ors2jvolq4efnycc3mtpxss7aphra/index-v1-a1.m3u8
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 15
+https://turtle.jawcloud.co/hls/baxpmy4dmftrdl2gmjloox5ai7n56c7wbnz7gikkgfxdsjgf5jerqt5t6hgq/index-v1-a1.m3u8
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 16
+
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 17
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 18
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 19
+
+#EXTINF:-1 tve-id="MosterFamily", gropu-title="FamiliaMonster",Episodio 20
+
+
